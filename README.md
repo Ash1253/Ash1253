@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ash1253
 - 👀 I’m interested in learning about coding in omics fields esp genomics
 - 🌱 I’m currently learning Pharmaceutical chemistry @UNCW, USA.
-- 💞️ I’m looking to collaborate on any projects in omics for getting to learn about coding in biology.
+- 💞️ I’m looking to collaborate on any projects in omics for getting to learn about coding.
 - 📫 How to reach me ac2595@uncw.edu
 
 <!---
